@@ -1,0 +1,19 @@
+2026-05-22T17:24:22.938712248 / temperatura: 35.0 / Tentou ligar o ventilador.
+2026-05-22T17:24:34.750393286 / temperatura: -500.0 / Falha na leitura do sensor.
+2026-05-22T17:24:44.111352018 / temperatura: 10.0 / Aquecedor acionado.
+2026-05-22T17:24:46.562814094 / temperatura: 10.0 / Tentou ligar o aquecedor.
+2026-05-22T17:25:22.771160179 / temperatura: -500.0 / Falha na leitura do sensor.
+2026-05-22T17:25:24.116472703 / temperatura: 10.0 / Tentou ligar o aquecedor.
+2026-05-22T17:25:24.923536534 / temperatura: 10.0 / Aquecedor acionado.
+2026-05-22T17:26:14.768689487 / temperatura: 999.0 / Falha na leitura do sensor.
+2026-05-22T17:26:15.392843151 / temperatura: 10.0 / Tentou ligar o aquecedor.
+2026-05-22T17:27:38.939790102 / temperatura: 10.0 / Aquecedor acionado.
+2026-05-22T17:27:46.723988314 / temperatura: 35.0 / Tentou ligar o ventilador.
+2026-05-22T17:27:47.958151697 / temperatura: 10.0 / Tentou ligar o aquecedor.
+2026-05-22T17:35:58.923514627 / temperatura: 25.0°C / Temperatura normal, atuadores desligados.
+2026-05-22T17:35:59.456532335 / temperatura: 35.0°C / Ventilador acionado.
+2026-05-22T17:36:00.018190088 / temperatura: 10.0°C / Aquecedor acionado.
+2026-05-22T17:36:00.490794657 / temperatura: 999.0°C / Falha na leitura do sensor.
+2026-05-22T17:36:01.481456931 / temperatura: -500.0°C / Falha na leitura do sensor.
+2026-05-22T17:36:01.999024347 / temperatura: 35.0°C / Tentou ligar o ventilador.
+2026-05-22T17:36:04.879431146 / temperatura: 10.0°C / Tentou ligar o aquecedor.
